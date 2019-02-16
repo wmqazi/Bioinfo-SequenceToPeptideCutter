@@ -1,0 +1,5 @@
+C:\Wajahat\Bioinformatics\SequenceToPeptideCutter\bin\Debug\PeptideGenerator.dll
+C:\Wajahat\Bioinformatics\SequenceToPeptideCutter\bin\Debug\PeptideGenerator.pdb
+C:\Wajahat\Bioinformatics\SequenceToPeptideCutter\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\SequenceToPeptideCutter\obj\Debug\PeptideGenerator.dll
+C:\Wajahat\Bioinformatics\SequenceToPeptideCutter\obj\Debug\PeptideGenerator.pdb

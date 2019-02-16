@@ -1,0 +1,40 @@
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 7 - 3 Models - Active Database RW\PeptideGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 7 - 3 Models - Active Database RW\PeptideGenerator\bin\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 7 - 3 Models - Active Database RW\PeptideGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 7 - 3 Models - Active Database RW\PeptideGenerator\obj\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 7 - 3 Models - Active Database RW\PeptideGenerator\obj\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 8 - 3 Models - XML\PeptideGenerator\bin\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 8 - 3 Models - XML\PeptideGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 8 - 3 Models - XML\PeptideGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 8 - 3 Models - XML\PeptideGenerator\obj\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P\GEARSRemotingP2P 8 - 3 Models - XML\PeptideGenerator\obj\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARSRemotingP2P 9 - 3 Models - XML - Memory Management\PeptideGenerator\bin\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARSRemotingP2P 9 - 3 Models - XML - Memory Management\PeptideGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARSRemotingP2P 9 - 3 Models - XML - Memory Management\PeptideGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARSRemotingP2P 9 - 3 Models - XML - Memory Management\PeptideGenerator\obj\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARSRemotingP2P 9 - 3 Models - XML - Memory Management\PeptideGenerator\obj\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARS-BK\PeptideGenerator\bin\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARS-BK\PeptideGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARS-BK\PeptideGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARS-BK\PeptideGenerator\obj\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\GEARS-BK\PeptideGenerator\obj\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK\PeptideGenerator\bin\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK\PeptideGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK\PeptideGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK\PeptideGenerator\obj\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK\PeptideGenerator\obj\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 2\PeptideGenerator\bin\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 2\PeptideGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 2\PeptideGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 2\PeptideGenerator\obj\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 2\PeptideGenerator\obj\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 3\PeptideGenerator\bin\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 3\PeptideGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 3\PeptideGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 3\PeptideGenerator\obj\Debug\PeptideGenerator.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 3\GEARS-BK 3\PeptideGenerator\obj\Debug\PeptideGenerator.pdb
+G:\Ph. D. Code Base\SequenceToPeptideCutter\bin\Debug\PeptideGenerator.dll
+G:\Ph. D. Code Base\SequenceToPeptideCutter\bin\Debug\PeptideGenerator.pdb
+G:\Ph. D. Code Base\SequenceToPeptideCutter\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\SequenceToPeptideCutter\obj\Debug\PeptideGenerator.dll
+G:\Ph. D. Code Base\SequenceToPeptideCutter\obj\Debug\PeptideGenerator.pdb
